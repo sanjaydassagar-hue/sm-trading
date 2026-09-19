@@ -1,0 +1,6 @@
+{
+  "name": "SM TRADING",
+  "description": "বাংলায় শেয়ার বাজার ও ট্রেডিং শেখার আধুনিক শিক্ষামূলক প্ল্যাটফর্ম ও পেপার ট্রেডিং।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
